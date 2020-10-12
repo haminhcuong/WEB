@@ -1,0 +1,252 @@
+body {
+    margin: 5px;
+}
+
+#logo {
+    margin-right: 20px
+}
+
+#perfect {
+    font-family: arial 'Arial Narrow';
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+#I1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#Phone {
+    font-family: arial 'Arial Narrow';
+    color: silver;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#callnow {
+    font-family: arial 'Arial Narrow';
+    color: slategrey;
+    font-weight: bold;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-size: 25px;
+}
+
+#xtech {
+    font-family: arial 'Arial Narrow';
+    color: slategrey;
+    font-weight: bold;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 1px;
+    font-size: 25px;
+}
+
+#landing {
+    font-family: arial 'Arial Narrow';
+    color: silver;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+    font-family: bs;
+    font-size: 28px;
+    background-color: turquoise;
+    border-radius: 80px;
+    margin-left: 480px;
+    margin-right: 0px;
+    margin-top: 60px;
+    padding-top: 8px;
+    padding-bottom: 3px;
+    -moz-box-shadow: 3px 3px #666;
+    -webkit-box-shadow: 3px 3px #666;
+    box-shadow: 3px 3px #666;
+}
+
+h2 p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    color: black;
+    font-weight: normal;
+}
+
+#check {
+    text-align: right;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-style: italic;
+    font-size: 22px;
+    color: #5790dc;
+    margin-top: 80px;
+}
+
+#arrow1 {
+    margin-left: 0px;
+    margin-top: 80px;
+    margin-right: 0px;
+}
+
+li {
+    margin-top: 0px;
+    list-style-type: none;
+}
+
+#picture {
+    margin-top: 30px;
+}
+
+#title {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#content {
+    text-align: justify;
+}
+
+#row {
+    margin-top: 90px;
+}
+
+#check2 {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 0px;
+    font-style: italic;
+    font-size: 24px;
+    color: #5790dc;
+    margin-top: 80px;
+}
+
+#beforecontent2 {
+    margin: 30px;
+}
+
+#content2 {
+    margin-bottom: 0px;
+    background-color: #eaeaea;
+    font-style: italic;
+    font-family: arial;
+    padding-left: 40px;
+    padding-right: 25px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    text-align: center;
+    border-radius: 6px;
+    border: #c2c2c2 solid;
+    border-bottom: white;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-width: 30px 30px 0 0;
+    border-color: #eaeaea transparent transparent transparent;
+    border-style: solid;
+    float: right;
+    margin-right: 40px;
+}
+
+#apple {
+    float: right;
+    margin-right: 130px;
+    margin-top: 0px;
+}
+
+#wait {
+    margin-top: 85px;
+    float: bottom;
+    font-style: italic;
+    font-size: 22px;
+    color: #5790dc;
+    margin-left: 20px;
+}
+
+#button {
+    margin-top: 50px;
+    border-radius: 80px;
+    float: left;
+    text-align: center;
+    color: blue;
+    font-family: bs;
+    font-size: 28px;
+    background-color: turquoise;
+    border-radius: 80px;
+    -moz-box-shadow: 3px 3px #666;
+    -webkit-box-shadow: 3px 3px #666;
+    box-shadow: 3px 3px #666;
+    margin-right: 0px;
+}
+
+#button1 {
+    margin-top: 50px;
+    border-radius: 80px;
+    float: right;
+    text-align: center;
+    color: blue;
+    font-family: bs;
+    font-size: 28px;
+    background-color: turquoise;
+    border-radius: 80px;
+    -moz-box-shadow: 3px 3px #666;
+    -webkit-box-shadow: 3px 3px #666;
+    box-shadow: 3px 3px #666;
+    margin-right: 60px;
+}
+
+#get {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    color: black;
+    font-weight: normal;
+}
+
+#footer {
+    margin-top: 100px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+#foot1 {
+    padding: 30px;
+}
+
+#contact {
+    font-family: arial 'Arial Narrow';
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#copyright {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+}
+
+#pri {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+    float: right;
+}
+
+#google {
+    margin: auto;
+}
